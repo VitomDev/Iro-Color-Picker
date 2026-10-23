@@ -1,0 +1,6 @@
+#pragma once
+
+#define IRO_VERSION_MAJOR 1
+#define IRO_VERSION_MINOR 0
+#define IRO_VERSION_PATCH 0
+#define IRO_VERSION_STRING "1.0.0"

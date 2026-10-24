@@ -1,0 +1,9 @@
+{
+  "appId": "{4C9D2E71-8B3A-4F05-A6E2-1D7B9C3F5A80}",
+  "name": "Iro Color Picker",
+  "category": "Design",
+  "icon": "assets/iro.png",
+  "screenshots": [],
+  "installer": "IroSetup.exe",
+  "exe": "Iro.exe"
+}

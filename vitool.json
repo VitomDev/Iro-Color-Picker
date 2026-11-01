@@ -5,5 +5,9 @@
   "icon": "assets/iro.png",
   "screenshots": [],
   "installer": "IroSetup.exe",
-  "exe": "Iro.exe"
+  "exe": "Iro.exe",
+  "settings": [
+    "%LOCALAPPDATA%\\Iro Color Picker",
+    "HKCU\\Software\\Iro Color Picker"
+  ]
 }

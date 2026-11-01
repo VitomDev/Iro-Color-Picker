@@ -3,7 +3,9 @@
   "name": "Iro Color Picker",
   "category": "Design",
   "icon": "assets/iro.png",
-  "screenshots": [],
+  "screenshots": [
+    "assets/screenshots/screenshot-1.png"
+  ],
   "installer": "IroSetup.exe",
   "exe": "Iro.exe",
   "settings": [

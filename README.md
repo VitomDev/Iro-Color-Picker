@@ -8,6 +8,8 @@ Press a shortcut, point at a pixel with the magnifier, click, and the color is o
 
 Iro lives in the notification area, uses almost no memory and works **offline**, on your PC.
 
+<p align="center"><img src="assets/screenshots/screenshot-1.png" width="560" alt="Iro Color Picker"></p>
+
 ---
 
 ## 🚀 Features

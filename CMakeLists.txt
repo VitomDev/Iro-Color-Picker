@@ -38,6 +38,7 @@ add_executable(Iro WIN32
     src/app/Iro.rc
 )
 target_link_libraries(Iro PRIVATE irocore gdi32 comctl32 dwmapi uxtheme shcore)
+set_source_files_properties(src/app/Iro.rc PROPERTIES OBJECT_DEPENDS "${CMAKE_SOURCE_DIR}/src/version.h;${CMAKE_SOURCE_DIR}/src/app/Iro.manifest;${CMAKE_SOURCE_DIR}/assets/iro.ico")
 # The manifest is embedded through Iro.rc.
 target_link_options(Iro PRIVATE /MANIFEST:NO)
 

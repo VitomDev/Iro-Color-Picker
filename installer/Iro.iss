@@ -6,7 +6,7 @@
 ;
 ; Built by build.ps1, which passes /DBuildDir=<folder with Iro.exe>.
 
-#define AppVersion "1.0.0"
+#define AppVersion "1.0.1"
 #define AppName "Iro Color Picker"
 #define RunKey "Software\Microsoft\Windows\CurrentVersion\Run"
 #define StartupApprovedKey "Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run"
